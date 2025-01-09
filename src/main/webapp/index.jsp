@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>gowthami bevara - DevOps Engineer</h1>
+        <h1>nadupuru satish - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
